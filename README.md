@@ -5,7 +5,7 @@ O KenzieHub é uma plataforma de educação online onde os usuários podem se ca
 
 Funcionalidades
 
-Cadastro de Usuário: Os usuários podem se cadastrar na plataforma fornecendo nome, e-mail e senha.
+"Cadastro de Usuário": Os usuários podem se cadastrar na plataforma fornecendo nome, e-mail e senha.
 Login de Usuário: Os usuários podem fazer login na plataforma utilizando seu e-mail e senha.
 Visualização de Página de Usuário: Os usuários podem visualizar informações do seu perfil após fazer login.
 Cadastro de Curso: Os usuários podem cadastrar cursos na plataforma fornecendo título, descrição e outras informações relevantes.
