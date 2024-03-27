@@ -1,4 +1,4 @@
-#KenzieHub - Plataforma de Educação Online
+# KenzieHub - Plataforma de Educação Online
 
 O KenzieHub é uma plataforma de educação online onde os usuários podem se cadastrar, fazer login, visualizar suas informações de perfil, cadastrar cursos, editar e excluir cursos.
 
