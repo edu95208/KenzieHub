@@ -5,19 +5,27 @@ O KenzieHub é uma plataforma de educação online onde os usuários podem se ca
 
 Funcionalidades
 
-"Cadastro de Usuário": Os usuários podem se cadastrar na plataforma fornecendo nome, e-mail e senha.
+Cadastro de Usuário: Os usuários podem se cadastrar na plataforma fornecendo nome, e-mail e senha.
+
 Login de Usuário: Os usuários podem fazer login na plataforma utilizando seu e-mail e senha.
+
 Visualização de Página de Usuário: Os usuários podem visualizar informações do seu perfil após fazer login.
+
 Cadastro de Curso: Os usuários podem cadastrar cursos na plataforma fornecendo título, descrição e outras informações relevantes.
+
 Edição de Curso: Os usuários podem editar as informações de cursos previamente cadastrados.
+
 Exclusão de Curso: Os usuários podem excluir cursos previamente cadastrados.
 
 
 Tecnologias Utilizadas
 
 React: Utilizado para a construção da interface do usuário.
+
 HTML: Utilizado para a estruturação do conteúdo das páginas.
+
 SCSS: Utilizado para estilização dos componentes.
+
 JavaScript: Utilizado para lógica interativa e manipulação do DOM.
 
 
