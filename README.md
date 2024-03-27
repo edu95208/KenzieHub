@@ -3,7 +3,7 @@
 O KenzieHub é uma plataforma de educação online onde os usuários podem se cadastrar, fazer login, visualizar suas informações de perfil, cadastrar cursos, editar e excluir cursos.
 
 
-Funcionalidades
+# Funcionalidades
 
 Cadastro de Usuário: Os usuários podem se cadastrar na plataforma fornecendo nome, e-mail e senha.
 
@@ -18,7 +18,7 @@ Edição de Curso: Os usuários podem editar as informações de cursos previame
 Exclusão de Curso: Os usuários podem excluir cursos previamente cadastrados.
 
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 React: Utilizado para a construção da interface do usuário.
 
@@ -29,7 +29,7 @@ SCSS: Utilizado para estilização dos componentes.
 JavaScript: Utilizado para lógica interativa e manipulação do DOM.
 
 
-Utilização
+# Utilização
 
 Clone este repositório em sua máquina local.
 Navegue até o diretório do projeto.
@@ -37,10 +37,10 @@ Instale as dependências utilizando npm install.
 Execute o projeto utilizando npm start.
 Abra seu navegador e acesse https://kenziehub-edu95208-otydatq57-edu95208.vercel.app/ para utilizar o KenzieHub.
 
-Contribuição
+# Contribuição
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Autor
+# Autor
 Este projeto foi desenvolvido por Eduardo Aguiar.
 
 # React + Vite
